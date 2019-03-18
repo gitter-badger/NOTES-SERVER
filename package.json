@@ -1,0 +1,21 @@
+{
+  "name": "NOTES",
+  "version": "1.0.0",
+  "description": "Make notes",
+  "author": "Sharkbyte",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1",
+    "grunt": "^1.0.3",
+    "morgan": "^1.9.1"
+  },
+  "devdepencies": {
+    "grunt": "^1.0.2",
+    "grunt-jslint": "^1.1.15",
+    "grunt-contrib-nodeunit": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.0"
+  }
+}
