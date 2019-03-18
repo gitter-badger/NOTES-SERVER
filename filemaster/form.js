@@ -12,10 +12,10 @@ module.exports = function render(movie) {
       <input type="hidden" id="id" name="id" value="${movie.id}" />
       <div>
         <label for="id">Notiz:</label>
-        <input type="text" id="title" name="title" value="${movie.title}" />
+        <input size="150" type="text" id="title" name="title" value="${movie.title}" />
       </div>
       <div>
-        <button type="submit">speichern</button>
+        <button type="submit">Speichern</button>
       </div>
     </form>
   </body>
