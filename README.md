@@ -9,4 +9,4 @@ INSTALL COMMAND DOCKER: ```docker pull shark2byte/notes-server```
 PORT: ```8080```
 
 ---
-Please leave the empty entry as it is, otherwise if you delete all entries, a malfunction may occur! 
+[Please leave the empty entry as it is, otherwise if you delete all entries, a malfunction may occur!](https://github.com/Sharkbyteprojects/NOTES-SERVER/issues/2)
