@@ -3,4 +3,9 @@
 Make notes in your network
 
 ---
+INSTALL COMMAND DOCKER: ```docker pull shark2byte/notes-server```
+
+---
 PORT: ```8080```
+
+
